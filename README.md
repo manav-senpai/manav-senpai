@@ -85,61 +85,7 @@ const manav = {
 
 <div align="center">
 
-## 🎯 **Projects That Slap**
 
-</div>
-
-<table align="center">
-<tr>
-<td width="50%" valign="top">
-
-### 🧠 **UCHIHADEX**
-Personal productivity beast with mental health, nutrition, fitness modules + Pomodoro, calendar, to-do lists
-  
-**Tech:** `HTML` `CSS` `JavaScript`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="100">
-
-</td>
-<td width="50%" valign="top">
-
-### 🎵 **Meeko** *(WIP)*
-Customizable music player with equalizer & theme engine. Documented cinematically.
-
-**Tech:** `React` `JavaScript` `CSS`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="100">
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 **8-Legged Robot**
-Theo Jansen mechanism-based bot with surveillance, flood lights, morse code comms
-
-**Tech:** `Arduino` `C++` `IoT`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="100">
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 **Web Portfolio**
-Interactive portfolio with contact forms & local storage
-
-**Tech:** `HTML` `CSS` `JavaScript`
-
-<img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
 
 ## 📊 **GitHub Stats**
 
